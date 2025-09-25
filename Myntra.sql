@@ -1,4 +1,3 @@
-use gfg;
 
 select * from data;
 select count(*) as total_rows from data;
